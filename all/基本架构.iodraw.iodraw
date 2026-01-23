@@ -34,7 +34,7 @@
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-14" value="drug_smile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="dc7gSksWs1IVSrYvq6Bo-16" value="分子图结构" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+        <mxCell id="dc7gSksWs1IVSrYvq6Bo-16" value="分子序列结构" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="110" y="440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-18" value="rdkit" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
