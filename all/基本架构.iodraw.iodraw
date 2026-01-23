@@ -31,6 +31,9 @@
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-14" value="drug_smile" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="90" y="610" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="dc7gSksWs1IVSrYvq6Bo-16" value="分子图结构" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="120" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
