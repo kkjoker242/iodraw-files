@@ -48,8 +48,11 @@
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-20" value="CNN_1d" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="250" y="450" width="370" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="dc7gSksWs1IVSrYvq6Bo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="dc7gSksWs1IVSrYvq6Bo-8" target="dc7gSksWs1IVSrYvq6Bo-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="dc7gSksWs1IVSrYvq6Bo-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.879;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="236.66000000000005" as="sourcePoint" />
+            <mxPoint x="968.93938" y="319.99999999999994" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.169;entryY=0.994;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="dc7gSksWs1IVSrYvq6Bo-20" target="dc7gSksWs1IVSrYvq6Bo-10">
           <mxGeometry relative="1" as="geometry" />
@@ -57,8 +60,7 @@
         <mxCell id="dc7gSksWs1IVSrYvq6Bo-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.881;entryY=1.023;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="dc7gSksWs1IVSrYvq6Bo-20" target="dc7gSksWs1IVSrYvq6Bo-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="730" y="540" />
-              <mxPoint x="730" y="463" />
+              <mxPoint x="980" y="540" />
             </Array>
           </mxGeometry>
         </mxCell>
