@@ -23,7 +23,7 @@
           <mxGeometry x="70" y="300" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-1" value="&lt;font color=&quot;#ffffff&quot;&gt;&lt;b&gt;CC(=O)O...C(=O)O&lt;/b&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="70" y="120" width="120" height="40" as="geometry" />
+          <mxGeometry x="50" y="120" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-3" value="RDKit" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="130" y="170" width="60" height="30" as="geometry" />
