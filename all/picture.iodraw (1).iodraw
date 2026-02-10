@@ -14,7 +14,7 @@
           <mxGeometry x="869" y="302" width="550" height="529" as="geometry" />
         </mxCell>
         <mxCell id="NgvfFra5BdjVe8J6Ex32-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#ccffff;" parent="1" vertex="1">
-          <mxGeometry x="348" y="302" width="426" height="529" as="geometry" />
+          <mxGeometry x="348" y="250" width="426" height="581" as="geometry" />
         </mxCell>
         <mxCell id="NgvfFra5BdjVe8J6Ex32-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
           <mxGeometry x="78" y="290" width="222" height="540" as="geometry" />
@@ -1188,7 +1188,7 @@
             <mxPoint x="1540" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-2" value="CNN_1D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-2" value="CNN_1D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="498.52" y="778.65" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-3" value="&lt;b&gt;k-hop subgragh GCN&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
