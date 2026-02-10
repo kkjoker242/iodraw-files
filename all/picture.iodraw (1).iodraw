@@ -46,9 +46,6 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-153" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="903" y="533" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-154" value="Bilinear interaction" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="898" y="538.6" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-157" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1094" y="512.5" width="100" height="100" as="geometry" />
         </mxCell>
