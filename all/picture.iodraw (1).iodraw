@@ -1179,8 +1179,11 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-8" value="Temessage passing&amp;amp; state updatext" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="481" y="331.86" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.787;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-449" target="JHrWPrDkKtPrGtXIpK2l-424">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.449;entryY=0.095;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;exitX=0.787;exitY=0.457;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="545.5964382353583" y="388.7964351749541" as="sourcePoint" />
+            <mxPoint x="670.85973" y="400.99645" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
