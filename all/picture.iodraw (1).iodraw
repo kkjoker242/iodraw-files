@@ -1194,7 +1194,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-26" value="subgraph pooling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="630" y="321" width="74.39" height="30" as="geometry" />
+          <mxGeometry x="638" y="321" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
