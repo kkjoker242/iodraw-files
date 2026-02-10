@@ -43,7 +43,7 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99ccff;dashed=1;dashPattern=12 12;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="345" y="310" width="416" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#000000;" parent="1" vertex="1">
+        <mxCell id="JHrWPrDkKtPrGtXIpK2l-260" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#d5e8d4;" parent="1" vertex="1">
           <mxGeometry x="1512" y="440" width="140" height="261" as="geometry" />
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-261" value="Fully Connencted Layer" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
