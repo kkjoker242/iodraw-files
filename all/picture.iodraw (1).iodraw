@@ -1191,7 +1191,7 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-2" value="CNN_1D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="498.52" y="778.65" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-3" value="k-hop subgragh GCN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-3" value="&lt;b&gt;k-hop subgragh GCN&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="466.07" y="321" width="193.85" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-5" value="&lt;b&gt;graph&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
