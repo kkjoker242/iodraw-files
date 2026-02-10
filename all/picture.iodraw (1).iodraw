@@ -1200,8 +1200,8 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-6" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="900" y="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-8" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="740" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-8" value="Temessage passing&amp;amp; state updatext" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="331.86" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
