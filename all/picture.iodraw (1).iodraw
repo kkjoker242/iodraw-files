@@ -43,20 +43,8 @@
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-25" value="" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#99ccff;dashed=1;dashPattern=12 12;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="345" y="310" width="416" height="231" as="geometry" />
         </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-153" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="903" y="533" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-245" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="1278" y="533" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-246" value="Bilinear pooling" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="1273" y="538.6" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="JHrWPrDkKtPrGtXIpK2l-249" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1033" y="571" as="sourcePoint" />
-            <mxPoint x="1083" y="571" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="JHrWPrDkKtPrGtXIpK2l-250" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
