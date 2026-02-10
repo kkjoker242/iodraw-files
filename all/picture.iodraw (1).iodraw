@@ -13,7 +13,7 @@
         <mxCell id="NgvfFra5BdjVe8J6Ex32-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#b0e3e6;strokeColor=#0e8088;" parent="1" vertex="1">
           <mxGeometry x="869" y="302" width="550" height="529" as="geometry" />
         </mxCell>
-        <mxCell id="NgvfFra5BdjVe8J6Ex32-8" value="generate k-subgraphs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#ccffff;" parent="1" vertex="1">
+        <mxCell id="NgvfFra5BdjVe8J6Ex32-8" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#CCFFFF;strokeColor=#ccffff;" parent="1" vertex="1">
           <mxGeometry x="348" y="250" width="426" height="581" as="geometry" />
         </mxCell>
         <mxCell id="NgvfFra5BdjVe8J6Ex32-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFFFCC;" parent="1" vertex="1">
@@ -1195,6 +1195,9 @@
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-26" value="subgraph pooling" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="627" y="321" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-27" value="generate k-subgraphs" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="370" y="321" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
