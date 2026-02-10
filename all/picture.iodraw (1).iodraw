@@ -1179,12 +1179,6 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-8" value="Temessage passing&amp;amp; state updatext" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="481" y="331.86" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;exitX=0.802;exitY=0.473;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-449">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="520.5164382353582" y="440.7964351749541" as="sourcePoint" />
-            <mxPoint x="649.2983783783783" y="442.9999999999999" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
