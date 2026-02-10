@@ -1200,7 +1200,7 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-2" value="CNN_1D" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="513.29" y="775" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-3" value="k-hop subgragh GCN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-3" value="k-hop subgragh GCN" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="488.28999999999996" y="321" width="136.71" height="30" as="geometry" />
         </mxCell>
       </root>
