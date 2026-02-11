@@ -1003,8 +1003,8 @@
             <mxRectangle width="37" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-287" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="490" width="60" height="30" as="geometry" />
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-287" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;Self-learning weight matrix O&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="441" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
