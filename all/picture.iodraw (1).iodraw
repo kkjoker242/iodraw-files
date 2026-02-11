@@ -731,10 +731,10 @@
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-51" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;fillColor=#f0a30a;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1393" y="245" as="sourcePoint" />
-            <mxPoint x="841.1" y="245" as="targetPoint" />
+            <mxPoint x="1491.9" y="120" as="sourcePoint" />
+            <mxPoint x="940" y="120" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="944.08" y="245" />
+              <mxPoint x="1042.98" y="120" />
             </Array>
           </mxGeometry>
         </mxCell>
