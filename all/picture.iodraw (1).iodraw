@@ -751,13 +751,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-201" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Query&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="905" y="515" width="60" height="30" as="geometry" />
+          <mxGeometry x="890" y="518.6" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-202" value="&lt;b&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Value&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="905" y="788" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-203" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="860" y="340" width="120" height="160" as="geometry" />
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-203" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#666666;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="860" y="354" width="120" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-204" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="860" y="490" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
