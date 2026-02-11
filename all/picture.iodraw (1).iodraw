@@ -1006,11 +1006,14 @@
             <mxRectangle width="37" height="34" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.517;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Z2uTNjocIkX4U2asnYMB-203" target="Z2uTNjocIkX4U2asnYMB-266">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-288" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.517;entryY=0.002;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#b1ddf0;strokeColor=#10739e;" edge="1" parent="1" source="Z2uTNjocIkX4U2asnYMB-203" target="Z2uTNjocIkX4U2asnYMB-266">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-289" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0.51;entryY=1.014;entryDx=0;entryDy=0;entryPerimeter=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1" source="Z2uTNjocIkX4U2asnYMB-211" target="Z2uTNjocIkX4U2asnYMB-281">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-290" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Self-learning weight matrix O&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1050" y="436.58" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
