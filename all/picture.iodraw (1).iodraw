@@ -792,6 +792,9 @@
         <mxCell id="Z2uTNjocIkX4U2asnYMB-217" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="884" y="671.8199999999999" width="80" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-287" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Self-learning weight matrix O&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="426.58" width="170" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="Z2uTNjocIkX4U2asnYMB-218" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=5;rounded=0;fillColor=#fad7ac;strokeColor=#b46504;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="901" y="717.2" as="sourcePoint" />
@@ -1002,9 +1005,6 @@
           <mxGeometry x="113" width="37" height="34" as="geometry">
             <mxRectangle width="37" height="34" as="alternateBounds" />
           </mxGeometry>
-        </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-287" value="&lt;span style=&quot;color: rgb(15, 17, 21); font-family: quote-cjk-patch, Inter, system-ui, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, Oxygen, Ubuntu, Cantarell, &amp;quot;Open Sans&amp;quot;, &amp;quot;Helvetica Neue&amp;quot;, sans-serif; font-size: 16px; text-align: start;&quot;&gt;Self-learning weight matrix O&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;labelBackgroundColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="1040" y="432.3" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
