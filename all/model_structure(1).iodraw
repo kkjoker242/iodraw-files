@@ -1017,7 +1017,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-333" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#bd7000;" parent="1" edge="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-333" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#bd7000;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="308" y="238" as="sourcePoint" />
             <mxPoint x="308" y="198" as="targetPoint" />
