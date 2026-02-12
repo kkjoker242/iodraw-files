@@ -1052,7 +1052,7 @@
             <mxPoint x="320" y="693" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_kjUqFv-r65lg-WSTzud-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="_kjUqFv-r65lg-WSTzud-1" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.886;exitY=-0.018;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="JHrWPrDkKtPrGtXIpK2l-449">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="570" y="390" as="sourcePoint" />
             <mxPoint x="620" y="340" as="targetPoint" />
