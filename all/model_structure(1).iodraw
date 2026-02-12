@@ -625,7 +625,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-51" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;fillColor=#f0a30a;" parent="1" edge="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-51" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#666666;fillColor=#f0a30a;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1434" y="243" as="sourcePoint" />
             <mxPoint x="834" y="243" as="targetPoint" />
@@ -1001,7 +1001,7 @@
             <mxPoint x="1482" y="541" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Z2uTNjocIkX4U2asnYMB-326" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=2;strokeColor=#666666;" parent="1" edge="1">
+        <mxCell id="Z2uTNjocIkX4U2asnYMB-326" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;strokeColor=#666666;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="827" y="238" as="sourcePoint" />
             <mxPoint x="827" y="198" as="targetPoint" />
