@@ -1,0 +1,126 @@
+<mxGraphModel dx="1200" dy="800" grid="1" gridSize="10" guides="1"
+tooltips="1" connect="1" arrows="1" fold="1" page="1"
+pageScale="1" pageWidth="1600" pageHeight="1200">
+
+<root>
+
+<mxCell id="0"/>
+<mxCell id="1" parent="0"/>
+
+<!-- Input -->
+<mxCell id="input_title"
+value="(a) Input"
+style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A9C4E8;"
+vertex="1" parent="1">
+<mxGeometry x="20" y="20" width="250" height="50" as="geometry"/>
+</mxCell>
+
+<mxCell id="drug_input"
+value="Drug Input&#10;SMILES&#10;Molecular Graph"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="30" y="100" width="220" height="250" as="geometry"/>
+</mxCell>
+
+<mxCell id="protein_input"
+value="Target Input&#10;Protein Sequence&#10;Protein Structure"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="30" y="380" width="220" height="250" as="geometry"/>
+</mxCell>
+
+<!-- Feature Extraction -->
+<mxCell id="feature_title"
+value="(b) Feature Extraction"
+style="rounded=1;whiteSpace=wrap;html=1;fillColor=#BFD7F5;"
+vertex="1" parent="1">
+<mxGeometry x="320" y="20" width="450" height="50" as="geometry"/>
+</mxCell>
+
+<mxCell id="drug_gcn"
+value="K-hop Subgraph GCN (Drug)&#10;&#10;Generate Subgraph&#10;Message Passing&#10;Subgraph Pooling&#10;Virtual Node&#10;&#10;Output: V"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="330" y="100" width="420" height="250" as="geometry"/>
+</mxCell>
+
+<mxCell id="protein_cnn"
+value="CNN 1D for Protein&#10;&#10;Embedding&#10;Conv1D&#10;ReLU&#10;BatchNorm&#10;Pooling&#10;&#10;Output: G"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="330" y="380" width="420" height="250" as="geometry"/>
+</mxCell>
+
+<!-- Bilinear Attention -->
+<mxCell id="attention_title"
+value="(c) Bilinear Attention"
+style="rounded=1;whiteSpace=wrap;html=1;fillColor=#F4C7C3;"
+vertex="1" parent="1">
+<mxGeometry x="850" y="20" width="520" height="50" as="geometry"/>
+</mxCell>
+
+<mxCell id="attention"
+value="Low-rank Bilinear Attention&#10;&#10;Drug Feature V&#10;Target Feature G&#10;&#10;Projection Network&#10;Weight Matrix O&#10;Attention Matrix A&#10;&#10;Multi-head Fusion&#10;&#10;Output: Z"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="850" y="100" width="500" height="530" as="geometry"/>
+</mxCell>
+
+<!-- Prediction -->
+<mxCell id="pred_title"
+value="(d) Prediction"
+style="rounded=1;whiteSpace=wrap;html=1;fillColor=#D6E8D4;"
+vertex="1" parent="1">
+<mxGeometry x="1450" y="20" width="250" height="50" as="geometry"/>
+</mxCell>
+
+<mxCell id="mlp"
+value="MLP Classifier&#10;&#10;Hidden Layer 1&#10;Hidden Layer 2&#10;Hidden Layer 3&#10;&#10;Sigmoid&#10;&#10;Interaction Probability p"
+style="rounded=1;whiteSpace=wrap;html=1;"
+vertex="1" parent="1">
+<mxGeometry x="1460" y="150" width="220" height="350" as="geometry"/>
+</mxCell>
+
+<!-- Edges -->
+<mxCell id="e1"
+edge="1"
+parent="1"
+source="drug_input"
+target="drug_gcn">
+<mxGeometry relative="1" as="geometry"/>
+</mxCell>
+
+<mxCell id="e2"
+edge="1"
+parent="1"
+source="protein_input"
+target="protein_cnn">
+<mxGeometry relative="1" as="geometry"/>
+</mxCell>
+
+<mxCell id="e3"
+edge="1"
+parent="1"
+source="drug_gcn"
+target="attention">
+<mxGeometry relative="1" as="geometry"/>
+</mxCell>
+
+<mxCell id="e4"
+edge="1"
+parent="1"
+source="protein_cnn"
+target="attention">
+<mxGeometry relative="1" as="geometry"/>
+</mxCell>
+
+<mxCell id="e5"
+edge="1"
+parent="1"
+source="attention"
+target="mlp">
+<mxGeometry relative="1" as="geometry"/>
+</mxCell>
+
+</root>
+</mxGraphModel>
